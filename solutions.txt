@@ -1,0 +1,9 @@
+1. Crossword: The solution is DOG BEACH (dinosaur, owl, gorilla, baboon, emu, alligator, cat, horses)
+
+2. Riddle: Connect consecutive numbers with segments. The picture shows a tree. Tree skin = BARK.
+
+3. A to Z: The code suggests that A maps to Z. The hints are stripes with the alphabet printed forwards and backwards. If you put one below the other, you see the mapping of letters of the normal vs the reversed alphabet. The solution is BEST FRIEND.
+
+4. Chessboard: The notations refers to the standard chessboard position notation (A - H left to right, 1 - 8 bottom to top). The largest number is 5, the largest letter is D, indicating that a 4x5 chessboard is sufficient. There are 4 rows in the problem, and there are 4 5x5 square grids in the hint. The solution was to color the positions listed in each row in the individual squares. The colored squares formed letters. The solution was BONE.
+
+The master password is something that BARK, BEST FRIEND, and BONE suggest: DOG (DOG BEACH was not officially considered a clue but was a not so subtle hint.)
