@@ -1,0 +1,57 @@
+\documentclass{article}[12pt]
+\usepackage{graphicx}
+\usepackage[thinlines]{easytable}
+\usepackage[table]{xcolor}
+\textheight=25.5cm \textwidth=18cm \topmargin=-1.8cm%
+\evensidemargin=-0.8cm \oddsidemargin-0.8cm%
+
+\begin{document}
+\begin{center}
+{\large Tiling and Parity Argument}
+\end{center}
+
+Coach-led activity:
+
+Let us have an 8x8 square board like the one below (alternatively, 4x4). Is it possible to tile such a board with dominoes? Dominoes should cover the entire board without overlapping.
+
+\setlength{\unitlength}{12pt}
+\begin{picture}(9, 9)
+  \put(0, 0){\line(1, 0){8}}
+  \put(0, 1){\line(1, 0){8}}
+  \put(0, 2){\line(1, 0){8}}
+  \put(0, 3){\line(1, 0){8}}
+  \put(0, 4){\line(1, 0){8}}
+  \put(0, 5){\line(1, 0){8}}
+  \put(0, 6){\line(1, 0){8}}
+  \put(0, 7){\line(1, 0){8}}
+  \put(0, 8){\line(1, 0){8}}
+
+  \put(0, 0){\line(0, 1){8}}
+  \put(1, 0){\line(0, 1){8}}
+  \put(2, 0){\line(0, 1){8}}
+  \put(3, 0){\line(0, 1){8}}
+  \put(4, 0){\line(0, 1){8}}
+  \put(5, 0){\line(0, 1){8}}
+  \put(6, 0){\line(0, 1){8}}
+  \put(7, 0){\line(0, 1){8}}
+  \put(8, 0){\line(0, 1){8}}
+\end{picture}
+
+\vspace{3mm}
+
+(Kids should work on the problem for a while but the answer is obviously yes.)
+
+What if we cut one corner from the square, can it still be tiled with dominoes?
+
+(Kids should come up with the solution quickly, it has odd number of unit squares, so no.)
+
+What if we cut two opposite corner squares? Can it be tiled with dominoes?
+
+(Kids work for longer, discuss ideas.)
+
+If they intuitively know but can't formally show it, suggest coloring the board like a chessboard. Ask kids to pay attention to the properties that are true for each domino tile placed on the board.
+
+(They should notice that each tile covers one black and one white square. Therefore, the resulting covered shape must have the number of both - the board with two corners cut doesn't. Therefore it is not possible to cover with dominoes.)
+
+Present worksheet to practice understanding of the technique.
+\end{document}

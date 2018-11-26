@@ -1,0 +1,213 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.4.16)  14 OCT 2018 20:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**magic_square.tex
+(./magic_square.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/easy/easytable.sty
+Document Style `easytable' v1.0 <2001/06/13>.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/easy/easy.sty
+Document Style `easy' v1.1 <2001/05/31>.
+Package: easy 2001/05/31 v1.1
+\@easy@level=\count88
+\@easy@ncol=\count89
+\@easy@nrow=\count90
+\@easy@cnt=\count91
+\@easy@boxviii=\box26
+\@easy@minxviii=\dimen103
+\@easy@minyviii=\dimen104
+\@easy@maxxviii=\dimen105
+\@easy@maxyviii=\dimen106
+\@easy@boxvii=\box27
+\@easy@minxvii=\dimen107
+\@easy@minyvii=\dimen108
+\@easy@maxxvii=\dimen109
+\@easy@maxyvii=\dimen110
+\@easy@boxvi=\box28
+\@easy@minxvi=\dimen111
+\@easy@minyvi=\dimen112
+\@easy@maxxvi=\dimen113
+\@easy@maxyvi=\dimen114
+\@easy@boxv=\box29
+\@easy@minxv=\dimen115
+\@easy@minyv=\dimen116
+\@easy@maxxv=\dimen117
+\@easy@maxyv=\dimen118
+\@easy@boxiv=\box30
+\@easy@minxiv=\dimen119
+\@easy@minyiv=\dimen120
+\@easy@maxxiv=\dimen121
+\@easy@maxyiv=\dimen122
+\@easy@boxiii=\box31
+\@easy@minxiii=\dimen123
+\@easy@minyiii=\dimen124
+\@easy@maxxiii=\dimen125
+\@easy@maxyiii=\dimen126
+\@easy@boxii=\box32
+\@easy@minxii=\dimen127
+\@easy@minyii=\dimen128
+\@easy@maxxii=\dimen129
+\@easy@maxyii=\dimen130
+\@easy@boxi=\box33
+\@easy@minxi=\dimen131
+\@easy@minyi=\dimen132
+\@easy@maxxi=\dimen133
+\@easy@maxyi=\dimen134
+\@easy@hsizexxx=\dimen135
+\@easy@vsizexxx=\dimen136
+\@easy@hsizexxix=\dimen137
+\@easy@vsizexxix=\dimen138
+\@easy@hsizexxviii=\dimen139
+\@easy@vsizexxviii=\dimen140
+\@easy@hsizexxvii=\dimen141
+\@easy@vsizexxvii=\dimen142
+\@easy@hsizexxvi=\dimen143
+\@easy@vsizexxvi=\dimen144
+\@easy@hsizexxv=\dimen145
+\@easy@vsizexxv=\dimen146
+\@easy@hsizexxiv=\dimen147
+\@easy@vsizexxiv=\dimen148
+\@easy@hsizexxiii=\dimen149
+\@easy@vsizexxiii=\dimen150
+\@easy@hsizexxii=\dimen151
+\@easy@vsizexxii=\dimen152
+\@easy@hsizexxi=\dimen153
+\@easy@vsizexxi=\dimen154
+\@easy@hsizexx=\dimen155
+\@easy@vsizexx=\dimen156
+\@easy@hsizexix=\dimen157
+\@easy@vsizexix=\dimen158
+\@easy@hsizexviii=\dimen159
+\@easy@vsizexviii=\dimen160
+\@easy@hsizexvii=\dimen161
+\@easy@vsizexvii=\dimen162
+\@easy@hsizexvi=\dimen163
+\@easy@vsizexvi=\dimen164
+\@easy@hsizexv=\dimen165
+\@easy@vsizexv=\dimen166
+\@easy@hsizexiv=\dimen167
+\@easy@vsizexiv=\dimen168
+\@easy@hsizexiii=\dimen169
+\@easy@vsizexiii=\dimen170
+\@easy@hsizexii=\dimen171
+\@easy@vsizexii=\dimen172
+\@easy@hsizexi=\dimen173
+\@easy@vsizexi=\dimen174
+\@easy@hsizex=\dimen175
+\@easy@vsizex=\dimen176
+\@easy@hsizeix=\dimen177
+\@easy@vsizeix=\dimen178
+\@easy@hsizeviii=\dimen179
+\@easy@vsizeviii=\dimen180
+\@easy@hsizevii=\dimen181
+\@easy@vsizevii=\dimen182
+\@easy@hsizevi=\dimen183
+\@easy@vsizevi=\dimen184
+\@easy@hsizev=\dimen185
+\@easy@vsizev=\dimen186
+\@easy@hsizeiv=\dimen187
+\@easy@vsizeiv=\dimen188
+\@easy@hsizeiii=\dimen189
+\@easy@vsizeiii=\dimen190
+\@easy@hsizeii=\dimen191
+\@easy@vsizeii=\dimen192
+\@easy@hsizei=\dimen193
+\@easy@vsizei=\dimen194
+\@easy@dash@len=\dimen195
+\@easy@dash@sep=\dimen196
+)
+Package: easytable 2001/05/31v1.1
+\@tab@size@rule=\dimen197
+\@tab@size@dash=\dimen198
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen199
+\ar@mcellbox=\box34
+\extrarowheight=\dimen256
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box35
+)
+\everycr=\toks15
+\minrowclearance=\skip45
+)
+\rownum=\count92
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(./magic_square.aux)
+\openout1 = `magic_square.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+
+Easytable[row:4,col:3]
+Easytable[row:4,col:10]
+Easytable[row:4,col:10]
+[1
+
+] (./magic_square.aux) ) 
+Here is how much of TeX's memory you used:
+ 1096 strings out of 492650
+ 13273 string characters out of 6129648
+ 94655 words of memory out of 5000000
+ 5038 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,9n,35p,210b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on magic_square.dvi (1 page, 8192 bytes).
