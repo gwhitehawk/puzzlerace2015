@@ -12,9 +12,33 @@
 
 Polyomino is a shape build from squares that touch on their sides. You are probably familiar with both dominoes and tetrominoes - have you ever played Tetris? We explore what can be built from polyominos - or what shapes can be tiled with polyomino-shaped tiles.
 
-Think about the chessboard - a square consisting of 8x8 = 64 small squares. Can you tile it with dominoes? Now remove the bottom left, and the upper right square from the chessboard. Can you still tile it with dominoes?
+\vspace{5mm}
 
-1. Arrange eight L-triominoes to create this shape (no tile on black square).
+1. Can the following figure be made of 3x1 triominos?
+
+\setlength{\unitlength}{12pt}
+\begin{picture}(5, 5)
+  \put(0, 0){\line(1, 0){4}}
+  \put(0, 1){\line(1, 0){4}}
+  \put(0, 2){\line(1, 0){4}}
+  \put(0, 3){\line(1, 0){4}}
+  \put(0, 4){\line(1, 0){4}}
+
+  \put(0, 0){\line(0, 1){2}}
+  \put(0, 3){\line(0, 1){1}}
+  \put(1, 0){\line(0, 1){4}}
+  \put(2, 0){\line(0, 1){4}}
+  \put(3, 0){\line(0, 1){4}}
+  \put(4, 0){\line(0, 1){4}}
+\end{picture}
+
+\vspace{3mm}
+
+2. Can you tile a 3x5 rectangle with 1 3x1 triomino and 4 L-triominos? Can you tile it with 2 3x1 triominos and 3 L-triominos?
+
+\vspace{3mm}
+
+3. Arrange eight L-triominoes to create this shape (no tile on black square).
 
 \setlength{\unitlength}{12pt}
 \begin{picture}(10, 8)
@@ -42,7 +66,7 @@ Think about the chessboard - a square consisting of 8x8 = 64 small squares. Can 
 
 \vspace{3mm}
 
-2. Arrange one monomino, one L-triomino, and four straight triominoes to make a square.
+4. Arrange one monomino, one L-triomino, and four straight triominoes to make a square.
 
 \setlength{\unitlength}{12pt}
 \begin{picture}(5, 5)
@@ -61,7 +85,7 @@ Think about the chessboard - a square consisting of 8x8 = 64 small squares. Can 
 
 \vspace{3mm}
 
-3. Arrange the five tetrominoes (one of each) to create each of the shapes below.
+5. Arrange the five tetrominoes (one of each) to create each of the shapes below.
 
 \setlength{\unitlength}{12pt}
 \begin{picture}(30, 8)
@@ -160,7 +184,7 @@ Think about the chessboard - a square consisting of 8x8 = 64 small squares. Can 
 
 \vspace{3mm}
 
-4. Which octominoes below can be made from dominoes?
+6. Which octominoes below can be made from dominoes?
 
 \setlength{\unitlength}{12pt}
 \begin{picture}(30, 6)
@@ -221,9 +245,9 @@ Think about the chessboard - a square consisting of 8x8 = 64 small squares. Can 
   \put(32, 1){\line(0, 1){1}}
 \end{picture}
 
-\vspace{3mm}
+\vspace{1cm}
 
-5. Which of the shapes below can be made with one T-tetromino and four dominoes?
+7. Which of the shapes below can be made with one T-tetromino and four dominoes?
 
 \setlength{\unitlength}{12pt}
 \begin{picture}(32, 6)
@@ -288,4 +312,33 @@ Think about the chessboard - a square consisting of 8x8 = 64 small squares. Can 
   \put(31, 0){\line(0, 1){4}}
   \put(32, 0){\line(0, 1){4}}
 \end{picture}
+
+\vspace{3mm}
+
+9. Can you tile the figure below with dominoes?
+
+\setlength{\unitlength}{12pt}
+\begin{picture}(8, 8)
+  \put(3, 0){\line(1, 0){3}}
+  \put(2, 1){\line(1, 0){5}}
+  \put(1, 2){\line(1, 0){6}}
+  \put(1, 3){\line(1, 0){6}}
+  \put(0, 4){\line(1, 0){7}}
+  \put(0, 5){\line(1, 0){6}}
+  \put(0, 6){\line(1, 0){4}}
+  \put(0, 7){\line(1, 0){3}}
+
+  \put(0, 4){\line(0, 1){3}}
+  \put(1, 2){\line(0, 1){5}}
+  \put(2, 1){\line(0, 1){6}}
+  \put(3, 0){\line(0, 1){7}}
+  \put(4, 0){\line(0, 1){6}}
+  \put(5, 0){\line(0, 1){5}}
+  \put(6, 0){\line(0, 1){5}}
+  \put(7, 1){\line(0, 1){3}}
+
+  \put(2, 3){\line(1, 1){1}}
+  \put(3, 3){\line(-1, 1){1}}
+\end{picture}
+
 \end{document}

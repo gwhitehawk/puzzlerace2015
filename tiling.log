@@ -1,0 +1,224 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2018.5.14)  23 OCT 2018 15:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tiling.tex
+(./tiling.tex
+LaTeX2e <2017-04-15>
+Babel <3.14> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/easy/easytable.sty
+Document Style `easytable' v1.0 <2001/06/13>.
+(/usr/share/texlive/texmf-dist/tex/latex/easy/easy.sty
+Document Style `easy' v1.1 <2001/05/31>.
+Package: easy 2001/05/31 v1.1
+\@easy@level=\count87
+\@easy@ncol=\count88
+\@easy@nrow=\count89
+\@easy@cnt=\count90
+\@easy@boxviii=\box26
+\@easy@minxviii=\dimen105
+\@easy@minyviii=\dimen106
+\@easy@maxxviii=\dimen107
+\@easy@maxyviii=\dimen108
+\@easy@boxvii=\box27
+\@easy@minxvii=\dimen109
+\@easy@minyvii=\dimen110
+\@easy@maxxvii=\dimen111
+\@easy@maxyvii=\dimen112
+\@easy@boxvi=\box28
+\@easy@minxvi=\dimen113
+\@easy@minyvi=\dimen114
+\@easy@maxxvi=\dimen115
+\@easy@maxyvi=\dimen116
+\@easy@boxv=\box29
+\@easy@minxv=\dimen117
+\@easy@minyv=\dimen118
+\@easy@maxxv=\dimen119
+\@easy@maxyv=\dimen120
+\@easy@boxiv=\box30
+\@easy@minxiv=\dimen121
+\@easy@minyiv=\dimen122
+\@easy@maxxiv=\dimen123
+\@easy@maxyiv=\dimen124
+\@easy@boxiii=\box31
+\@easy@minxiii=\dimen125
+\@easy@minyiii=\dimen126
+\@easy@maxxiii=\dimen127
+\@easy@maxyiii=\dimen128
+\@easy@boxii=\box32
+\@easy@minxii=\dimen129
+\@easy@minyii=\dimen130
+\@easy@maxxii=\dimen131
+\@easy@maxyii=\dimen132
+\@easy@boxi=\box33
+\@easy@minxi=\dimen133
+\@easy@minyi=\dimen134
+\@easy@maxxi=\dimen135
+\@easy@maxyi=\dimen136
+\@easy@hsizexxx=\dimen137
+\@easy@vsizexxx=\dimen138
+\@easy@hsizexxix=\dimen139
+\@easy@vsizexxix=\dimen140
+\@easy@hsizexxviii=\dimen141
+\@easy@vsizexxviii=\dimen142
+\@easy@hsizexxvii=\dimen143
+\@easy@vsizexxvii=\dimen144
+\@easy@hsizexxvi=\dimen145
+\@easy@vsizexxvi=\dimen146
+\@easy@hsizexxv=\dimen147
+\@easy@vsizexxv=\dimen148
+\@easy@hsizexxiv=\dimen149
+\@easy@vsizexxiv=\dimen150
+\@easy@hsizexxiii=\dimen151
+\@easy@vsizexxiii=\dimen152
+\@easy@hsizexxii=\dimen153
+\@easy@vsizexxii=\dimen154
+\@easy@hsizexxi=\dimen155
+\@easy@vsizexxi=\dimen156
+\@easy@hsizexx=\dimen157
+\@easy@vsizexx=\dimen158
+\@easy@hsizexix=\dimen159
+\@easy@vsizexix=\dimen160
+\@easy@hsizexviii=\dimen161
+\@easy@vsizexviii=\dimen162
+\@easy@hsizexvii=\dimen163
+\@easy@vsizexvii=\dimen164
+\@easy@hsizexvi=\dimen165
+\@easy@vsizexvi=\dimen166
+\@easy@hsizexv=\dimen167
+\@easy@vsizexv=\dimen168
+\@easy@hsizexiv=\dimen169
+\@easy@vsizexiv=\dimen170
+\@easy@hsizexiii=\dimen171
+\@easy@vsizexiii=\dimen172
+\@easy@hsizexii=\dimen173
+\@easy@vsizexii=\dimen174
+\@easy@hsizexi=\dimen175
+\@easy@vsizexi=\dimen176
+\@easy@hsizex=\dimen177
+\@easy@vsizex=\dimen178
+\@easy@hsizeix=\dimen179
+\@easy@vsizeix=\dimen180
+\@easy@hsizeviii=\dimen181
+\@easy@vsizeviii=\dimen182
+\@easy@hsizevii=\dimen183
+\@easy@vsizevii=\dimen184
+\@easy@hsizevi=\dimen185
+\@easy@vsizevi=\dimen186
+\@easy@hsizev=\dimen187
+\@easy@vsizev=\dimen188
+\@easy@hsizeiv=\dimen189
+\@easy@vsizeiv=\dimen190
+\@easy@hsizeiii=\dimen191
+\@easy@vsizeiii=\dimen192
+\@easy@hsizeii=\dimen193
+\@easy@vsizeii=\dimen194
+\@easy@hsizei=\dimen195
+\@easy@vsizei=\dimen196
+\@easy@dash@len=\dimen197
+\@easy@dash@sep=\dimen198
+)
+Package: easytable 2001/05/31v1.1
+\@tab@size@rule=\dimen199
+\@tab@size@dash=\dimen256
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen257
+\extrarowheight=\dimen258
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+\everycr=\toks16
+\minrowclearance=\skip45
+)
+\rownum=\count91
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (./tiling.aux)
+\openout1 = `tiling.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+[1
+
+] [2] (./tiling.aux) ) 
+Here is how much of TeX's memory you used:
+ 1331 strings out of 494932
+ 16258 string characters out of 6180877
+ 80640 words of memory out of 5000000
+ 4683 multiletter control sequences out of 15000+600000
+ 3938 words of font info for 15 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 41i,6n,35p,275b,135s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on tiling.dvi (2 pages, 6308 bytes).
