@@ -1,0 +1,98 @@
+\documentclass{article}
+\usepackage[thinlines]{easytable}
+\textheight=25.5cm \textwidth=18cm \topmargin=-1.8cm%
+\evensidemargin=-0.8cm \oddsidemargin-0.8cm%
+
+\usepackage{amsmath}
+
+\usepackage{tikz}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+\usepackage{tikz}
+\newcommand\Bigcircle[1][2.5]{\tikz[baseline=-#1]{\draw[thick](0,0)circle[radius=#1mm];}}
+
+\begin{document}
+\hrule
+\vspace{3mm}
+
+\textbf{Station 4: Chessboard}
+\vspace{4mm}
+
+\begin{center}
+\begin{TAB}(e,7mm,7mm){|c|c|c|c|c|} {|c|c|c|c|c|}
+           &            &            & \Bigcircle  &            \\
+           & \Bigcircle &            &             &            \\
+           &            & K & \Bigcircle  & \Bigcircle \\
+\Bigcircle &            &            &             &            \\
+	   &            & \Bigcircle & \circled{7} &            \\
+\end{TAB}
+\hspace{5mm}
+\begin{TAB}(e,7mm,7mm){|c|c|c|c|c|} {|c|c|c|c|c|}
+           &            &            & \Bigcircle  &            \\
+           & \Bigcircle &            & \Bigcircle  &            \\
+           &            & K          &             & \Bigcircle \\
+\Bigcircle &            &            &             & \Bigcircle \\
+           &            & \Bigcircle & \Bigcircle  &            \\
+\end{TAB}
+\hspace{5mm}
+\begin{TAB}(e,7mm,7mm){|c|c|c|c|c|} {|c|c|c|c|c|}
+	   &            & \Bigcircle &             &\Bigcircle  \\
+\Bigcircle &            & \Bigcircle &             &            \\
+\circled{8}&            & K          & \Bigcircle  &            \\
+           & \Bigcircle &            &             &            \\
+           &            &            & \Bigcircle  &            \\
+\end{TAB}
+\end{center}
+\vspace{3mm}
+
+\hrule
+\vspace{3mm}
+
+\textbf{Station 4: Chessboard}
+\vspace{4mm}
+
+\begin{center}
+\begin{TAB}(e,7mm,7mm){|c:c:c:c:c:c:c:c:c:c|} {|c|c|c|c|}
+A5 &B5 &A4 &C4 &A3 &B3 &A2 &C2 &A1 &B1 \\
+B5 &C5 &A4 &D4 &A3 &D3 &A2 &D2 &B1 &C1 \\
+A4 &D4 &A3 &B3 &D3 &A2 &C2 &D2 &A1 &D1 \\
+A5 &B5 &C5 &A4 &A3 &B3 &A2 &A1 &B1 &C1 \\
+\end{TAB}
+\end{center}
+
+\vspace{3mm}
+
+\hrule
+\vspace{3mm}
+
+\textbf{Station 4: Chessboard}
+\vspace{4mm}
+
+\begin{center}
+\begin{TAB}(e,7mm,7mm){|c:c:c:c:c:c:c:c:c:c|} {|c|c|c|c|}
+A5 &B5 &A4 &C4 &A3 &B3 &A2 &C2 &A1 &B1 \\
+B5 &C5 &A4 &D4 &A3 &D3 &A2 &D2 &B1 &C1 \\
+A4 &D4 &A3 &B3 &D3 &A2 &C2 &D2 &A1 &D1 \\
+A5 &B5 &C5 &A4 &A3 &B3 &A2 &A1 &B1 &C1 \\
+\end{TAB}
+\end{center}
+\vspace{3mm}
+
+\hrule
+\vspace{3mm}
+
+\textbf{Station 4: Chessboard}
+\vspace{4mm}
+
+\begin{center}
+\begin{TAB}(e,7mm,7mm){|c:c:c:c:c:c:c:c:c:c|} {|c|c|c|c|}
+A5 &B5 &A4 &C4 &A3 &B3 &A2 &C2 &A1 &B1 \\
+B5 &C5 &A4 &D4 &A3 &D3 &A2 &D2 &B1 &C1 \\
+A4 &D4 &A3 &B3 &D3 &A2 &C2 &D2 &A1 &D1 \\
+A5 &B5 &C5 &A4 &A3 &B3 &A2 &A1 &B1 &C1 \\
+\end{TAB}
+\end{center}
+\vspace{3mm}
+
+\hrule
+\end{document}
